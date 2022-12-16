@@ -6,7 +6,7 @@
   
   # - BallBattleRoyale (UNITY3D)
       More advanced project, still WIP but there is AI, physics, engaging game play (to be add UI and
-      game loop)
+      game manager)
     
   # - TicTacToeOnlineJava (JAVA SPRING)
       TicTacToe online game with use of java Spring, no GUI, can be played in Postman, simple character
@@ -14,7 +14,7 @@
       MySQL database
     
   # - SimpleRunneGame (UNITY3D)
-      Simple game, with music, sound effects, particle effects, few game mechanics WIP (to be add UI and game loop
+      Simple game, with music, sound effects, particle effects, few game mechanics WIP (to be add UI and game manager
       Prototype 3 is actual game, Challenge 3 is a different take on same game mechanics)
       
   # - kropelki (GODOT)
