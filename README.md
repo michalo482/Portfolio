@@ -5,8 +5,7 @@
       account state and transactions saved in SQL database
   
   # - BallBattleRoyale (UNITY3D)
-      More advanced project, still WIP but there is AI, physics, engaging game play (to be add UI and
-      game manager)
+      More advanced project, engaging game play, UI, audio mixers, transfering game state through scenes, simple AI, new input system, URP.
     
   # - TicTacToeOnlineJava (JAVA SPRING)
       TicTacToe online game with use of java Spring, no GUI, can be played in Postman, simple character
