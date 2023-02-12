@@ -17,5 +17,5 @@
       Simple game, with music, sound effects, particle effects, few game mechanics WIP (to be add UI and game manager
       Prototype 3 is actual game, Challenge 3 is a different take on same game mechanics)
       
-  # - kropelki (GODOT)
+  # - kropelki (libGDX)
       First approach at GoDot game endine and android games development in simple game
