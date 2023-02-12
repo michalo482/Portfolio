@@ -18,4 +18,4 @@
       Prototype 3 is actual game, Challenge 3 is a different take on same game mechanics)
       
   # - kropelki (libGDX)
-      First approach at GoDot game endine and android games development in simple game
+      First approach at libGDX game framework and android games development in simple game
