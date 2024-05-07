@@ -3,6 +3,11 @@
   # - TraderOpp (c# WPF)
       Windows aplication in c# WPF, using API to get data about currencies, which can be bought and sold,
       account state and transactions saved in SQL database
+
+  # - IRGK_PoC_2
+      Decent project, still WIP, using state machine for player and enemy, animation blending, nice 2D
+      movement in 3d envi, attacks, combos, wall slide, wall jump, dash.
+      (steering WSAD, L-Shift dash, Space jump, LMB attacks, S while on wall to slide down faster)
   
   # - BallBattleRoyale (UNITY3D)
       More advanced project, engaging game play, UI, audio mixers, transfering game state through scenes,
@@ -14,8 +19,8 @@
       MySQL database
     
   # - SimpleRunneGame (UNITY3D)
-      Simple game, with music, sound effects, particle effects, few game mechanics WIP (to be add UI and game manager
-      Prototype 3 is actual game, Challenge 3 is a different take on same game mechanics)
+      Simple game, with music, sound effects, particle effects, few game mechanics WIP (to be add UI
+      and game manager, Prototype 3 is actual game, Challenge 3 is a different take on same game mechanics)
       
   # - kropelki (libGDX)
       First approach at libGDX game framework and android games development in simple game
