@@ -19,3 +19,12 @@
       
   # - kropelki (libGDX)
       First approach at libGDX game framework and android games development in simple game
+
+  # - GDD 
+      https://www.taskade.com/d/wDYpb8h7Z8FachgH?share=view&view=eMyPq9JB4oNd3g8W&as=list
+      A gdd project for university, game i would like to make one day.
+
+  # - Michal_Ostrowski_www
+      simple, but scalable for most devices, www made with JS, CSS, HTML, all images were created with AI.
+
+  
